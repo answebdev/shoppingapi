@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/answebdev/shoppingapi/issues"
   },
-  "homepage": "https://github.com/answebdev/shoppingapi#readme"
+  "homepage": "https://github.com/answebdev/shoppingapi#readme",
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "sweetalert": "^2.1.2"
+  }
 }
